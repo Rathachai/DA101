@@ -1,0 +1,9 @@
+eid,name,gender,department,age,height,weight,gpa,salary,working_years,car_park,birth_place
+E011,Anda,female,developer,39,166,53.8,3.02,64200.00,4,TRUE,Bangkok
+E012,Bordin,male,developer,25,179,78.4,2.39,48700.00,2,TRUE,Phuket
+E013,Chantana,female,developer,29,171,70.2,3.02,45500.00,3,FALSE,Chonburi
+E014,Donlaya,female,marketing,39,154,66.5,3.21,72600.00,8,FALSE,Chonburi
+E015,Ekkasit,male,marketing,37,177,66.4,3.33,80500.00,7,TRUE,Suphanburi
+E016,Fundee,female,support,35,156,75.6,2.38,56600.00,3,FALSE,Phuket
+E017,Gitiwit,male,support,26,175,69.7,3.25,42400.00,2,FALSE,Suphanburi
+E018,Harit,male,devops,32,180,67.5,3.45,67700.00,5,TRUE,Bangkok
